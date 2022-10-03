@@ -21,7 +21,7 @@ dziper
 
 ### My Setup
 
-![My desk setup](mysetup.jpeg | width=200)
+<img src="https://user-images.githubusercontent.com/43871869/193488522-304925c0-3fd9-4e26-a2af-7aa3c89202d7.jpeg" width=40% height=40%>
 
 - M1 Macbook Pro, 16"
 - A [mechanical keyboard](keyboards.md)
@@ -58,7 +58,7 @@ dziper
 - Skiing
 
 # TODO
-- [ ] Pictures
+- [x] Pictures
 - [x] Core Markdown Syntax in [Github Flavored Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
   - [x] Headings
   - [x] Styling test
