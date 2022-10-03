@@ -21,7 +21,7 @@ dziper
 
 ### My Setup
 
-<img src="https://user-images.githubusercontent.com/43871869/193488522-304925c0-3fd9-4e26-a2af-7aa3c89202d7.jpeg" width=40% height=40%>
+![My desk setup](mysetup.jpeg)
 
 - M1 Macbook Pro, 16"
 - A [mechanical keyboard](keyboards.md)
